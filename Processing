@@ -431,7 +431,6 @@ for (Hand hand : leap.getHands ()) {
         break;
       }
 
-
       // ------------------------------------------------
       // Touch emulation
 

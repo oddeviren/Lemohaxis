@@ -2,6 +2,11 @@
 Interactive Music System for a Handpan, Leap Motion Controller and Xbox Controller.
 It is designed to create meditative improvisational music.
 
+
+Video Excerpt: https://vimeo.com/663140358 or https://vimeo.com/664955903
+Audio Excerpt: https://tinyurl.com/2p952yrm
+
+
 A leap motion tracker, a dynamic microphone, an Xbox 360 wireless controller and a reciever, and preferably an audio interface are required for running the system. 
 
 -SETUP-

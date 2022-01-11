@@ -1,5 +1,6 @@
 # Lemohaxis
-Interactive Music System for a Handpan, Leap Motion Controller and Xbox Controller
+Interactive Music System for a Handpan, Leap Motion Controller and Xbox Controller.
+It is designed to create meditative improvisational music.
 
 A leap motion tracker, a dynamic microphone, an Xbox 360 wireless controller and a reciever, and preferably an audio interface are required for running the system. 
 

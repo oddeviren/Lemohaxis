@@ -19,6 +19,43 @@ A leap motion tracker, a dynamic microphone, an Xbox 360 wireless controller and
 7- Run the second chunk (Controls).
 8- Ready to go.
 
+-Controls-
+Leap Motion:
+Three synthesizers controlled with handposes and slap gesture.
+Handposes and their sonicoutcomes demonstrated in the video: https://vimeo.com/664955903
+
+Xbox Controller:
+
+-Live looping:
+'A' and 'B' button used for recording live loop samples from handpan.
+Slot 1 - Recorded by 'A' button, sample lenght is 8 seconds. Slot 1 cleared by 'X' button. 
+Slot 2 - Recorded by 'B' button, sample lenght is 4 seconds. Slot 2 cleared by 'Y' button. 
+Also live looping supports overdubbing.
+
+-Left analog stick add various effects to the handpan output.
+'Left' for Granulator,
+'Down' for Spectral Delay,
+'Up' for reverb,
+'Right' for vibrato.
+Stick can be used in 360 degrees to mix these effects.
+
+Dual Harmonizer:
+'Right trigger' and 'Left trigger' can be used for dual harmonizer. Harmonizers pitch parameter controlled by the pressure on trigger.
+
+Samples:
+Directional Arrows used for ambient sounds in performances. Samples can be changed as desired in MAX patch.
+'Up', 'Right', 'Down', 'Left' launches samples with fade in.
+
+Triggering Note Cloud Change:
+Changing note cloud is triggered by 'start button' when performance starts to get boring. Algorithm decides next note cloud by pitch tracking.
+On first push, it shows the next note cloud for letting acoustic performer to prepare for it.
+On second push, it executes the note cloud change.
+
+//
+Tap Tempo:
+'Select button' is used for tap tempo. Yet it does not have an effect on parameters yet. Its implemented into system for future development.
+//
+
 General:
 A dynamic microphone must be used for Handpan, for best results and not to disturb performer, it should be placed inside the handpan. Gain level must be adjusted depending on the microphone. 
 
